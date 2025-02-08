@@ -1,12 +1,12 @@
 // create variables to store the path to your image files
-const img1 = "./img/lego-1.jpg";
+const img1 = "./lego-1.jpg";
 
 
-const img2 = "./img/lego-2.jpg";
+const img2 = "./lego-2.jpg";
 
-const img3 = "./img/lego-3.jpg";
+const img3 = "./lego-3.jpg";
 
-const img5 = "./img/lego-5.png";
+const img5 = "./lego-5.png";
 
 // define your images here
 const images = [ img1,img2, img3, img5];
